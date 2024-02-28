@@ -68,19 +68,17 @@ Key Findings:
 18. Bottom 10 countries population density wise contributed to `0% of the world population:
 
  Groups:   Country, world_pop_percent [10]  ===========(to show bottom 10)
-   
-   Country                      world_pop_percent
-   <chr>                                    <dbl>
-   1 Seychelles                                   0
-   2 Sint Maarten                                 0
-   3 Tokelau                                      0
-   4 Tonga                                        0
-   5 Turks and Caicos Islands                     0
-   6 Tuvalu                                       0
-   7 United States Virgin Islands                 0
-   8 Vanuatu                                      0
-   9 Vatican City                                 0
-   10 Wallis and Futuna                            0         
+ Country                          world_pop_percent  
+1 Seychelles                                 0
+2 Sint Maarten                               0
+3 Tokelau                                    0
+4 Tonga                                      0
+5 Turks and Caicos Islands                   0
+6 Tuvalu                                     0
+7 United States Virgin Islands               0
+8 Vanuatu                                    0
+9 Vatican City                               0
+10 Wallis and Futuna                         0         
 
 19. The same observations for the year 2022 apply to year 2020 (for both highest and lowest pop. percentage contribution)
 20. World Population Percentage Trend by Continent(Visualizations available for each Contoinent for Each year) 
