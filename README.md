@@ -67,7 +67,7 @@ Key Findings:
 
 18. Bottom 10 countries population density wise contributed to `0% of the world population.
 
-    # Groups:   Country, world_pop_percent [10]
+ Groups:   Country, world_pop_percent [10]  ===========(to show bottom 10)
    Country                      world_pop_percent
    <chr>                                    <dbl>
  1 Seychelles                                   0
