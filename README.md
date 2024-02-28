@@ -1,7 +1,13 @@
-World Population Analysis 
+# World Population Visual Analysis using R
 
-Independent Project to analyse Wolrd Population Trends
+An Independent project to analyse World Population data from 1970 to 2022 and draw visual insights decadewise, continent-wise, etc.
 
-Using dataset with data from 1970 to 2022
+Dataset Source:https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
-Dataset Source: https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+Requirements: MS Excel, RStudio (R programming  environement with R installed),
+Packages and libraries: 
+tidyverse, skimr, janitor, lubridate, hms, ggplot2, reshape2, ggpie, plotly, plotrix, gridExtra
+
+Use MS Excel to clean data (change column names as will be required)
+
+RStudio to create code and Visualizations, storing them in image form through in-built option (Export).
