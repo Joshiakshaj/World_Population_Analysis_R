@@ -65,21 +65,22 @@ Key Findings:
 17. China contributed the most to the world's population in terms of percentage, followed by India and the US. Bangladesh and Mexico were also present in Top 10 contributers in population percentage for 2022.
     ![Countries_with_Highest_Population_Percentage_2020](https://github.com/Joshiakshaj/World_Population_Analysis_R/assets/129145776/5c371e93-55ec-407d-b682-c5cc7938202b)
 
-18. Bottom 10 countries population density wise contributed to `0% of the world population.
+18. Bottom 10 countries population density wise contributed to `0% of the world population:
 
  Groups:   Country, world_pop_percent [10]  ===========(to show bottom 10)
+   
    Country                      world_pop_percent
    <chr>                                    <dbl>
- 1 Seychelles                                   0
- 2 Sint Maarten                                 0
- 3 Tokelau                                      0
- 4 Tonga                                        0
- 5 Turks and Caicos Islands                     0
- 6 Tuvalu                                       0
- 7 United States Virgin Islands                 0
- 8 Vanuatu                                      0
- 9 Vatican City                                 0
-10 Wallis and Futuna                            0         
+   1 Seychelles                                   0
+   2 Sint Maarten                                 0
+   3 Tokelau                                      0
+   4 Tonga                                        0
+   5 Turks and Caicos Islands                     0
+   6 Tuvalu                                       0
+   7 United States Virgin Islands                 0
+   8 Vanuatu                                      0
+   9 Vatican City                                 0
+   10 Wallis and Futuna                            0         
 
 19. The same observations for the year 2022 apply to year 2020 (for both highest and lowest pop. percentage contribution)
 20. World Population Percentage Trend by Continent(Visualizations available for each Contoinent for Each year) 
